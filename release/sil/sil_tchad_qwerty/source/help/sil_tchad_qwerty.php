@@ -1,10 +1,14 @@
-<?php
-  $pagename = "Tchad keyboard";
-  $pagetitle = "tchad qwerty keyboard";
+<?php /*
+  Name:        Tchad QWERTY Keyboard
+  Copyright:   2017-2024
+  Authors: Jeff Heath & roger Beramgoto Nadoumngar
+*/
+  $pagename = 'Tchad qwerty keyboard help';
+  $pagetitle = 'Tchad QWERTY keyboard Help';
   require_once('header.php');
 ?>
 <link rel="stylesheet" href="Td.css">
-<style type="text/css">
+<style type="text/css">               
 .keyboard {
   font-size: 20px;
   white-space: nowrap;
@@ -102,7 +106,6 @@
   color: #9400D3
 }
 </style>
-</head>
 
 <body data-device="Windows" data-section="keyboard">
 <div class="tab-folder">
